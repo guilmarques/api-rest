@@ -1,0 +1,4 @@
+django==1.6.3
+djangorestframework
+South==0.8.4
+

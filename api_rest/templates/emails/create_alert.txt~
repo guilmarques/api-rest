@@ -1,0 +1,4 @@
+Prezado(a),
+O processo {{lawsuit.number}} foi gerado para o usuario: {{lawsuit.user.username}}
+Dados do processo: {{lawsuit.data}}
+Obrigado.
